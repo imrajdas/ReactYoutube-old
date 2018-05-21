@@ -1,8 +1,10 @@
-A Youtube clone app based on React and Redux
-Author - Raj Babu Das
+# A Youtube clone app based on React and Redux
+
 ```
-git clone https://github.com/imrajdas/ReactYoutube
-cd ReactYoutube
-npm install
-npm start
+1. git clone https://github.com/imrajdas/ReactYoutube
+2. cd ReactYoutube
+3. npm install
+4 .npm start
 ```
+## Author
+Raj Babu Das http://www.rajdas.in
